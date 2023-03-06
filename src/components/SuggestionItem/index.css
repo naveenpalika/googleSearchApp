@@ -1,0 +1,14 @@
+.list-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  border: none;
+  background-color: #ffffff;
+}
+
+.arrow-image {
+  width: 15px;
+  height: 15px;
+}
